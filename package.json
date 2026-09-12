@@ -1,0 +1,16 @@
+{
+  "name": "scutie-survival-manual",
+  "version": "1.0.0",
+  "private": true,
+  "description": "华南理工大学工业工程生存手册 — SCUT IE Survival Manual",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.13"
+  }
+}

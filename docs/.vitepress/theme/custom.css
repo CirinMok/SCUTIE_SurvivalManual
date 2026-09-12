@@ -1,0 +1,253 @@
+/**
+ * SCUT IE Survival Manual — 主题样式
+ * 主色来自华南理工大学校徽蓝 #325395
+ */
+
+:root {
+  /* 华工校色：深蓝 */
+  --vp-c-brand-1: #2b4a86;
+  --vp-c-brand-2: #325395;
+  --vp-c-brand-3: #4568ab;
+  --vp-c-brand-soft: rgba(50, 83, 149, 0.14);
+
+  --vp-c-tip-1: var(--vp-c-brand-1);
+  --vp-c-tip-soft: var(--vp-c-brand-soft);
+
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-bg: var(--vp-c-brand-2);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: var(--vp-c-brand-1);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+
+  /* 首页 Hero 渐变 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #325395 30%, #6a8cc7);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #325395 50%, #8fa9d6 50%);
+  --vp-home-hero-image-filter: blur(56px);
+}
+
+.dark {
+  --vp-c-brand-1: #7a9bd8;
+  --vp-c-brand-2: #6389cc;
+  --vp-c-brand-3: #4a6fb0;
+  --vp-c-brand-soft: rgba(122, 155, 216, 0.16);
+}
+
+/* ---------- 正文排版：手册感 ---------- */
+
+.vp-doc h1 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.vp-doc h2 {
+  margin-top: 2.4rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--vp-c-divider);
+  font-weight: 650;
+}
+
+/* 章节开头的引言块 */
+.vp-doc blockquote {
+  border-left: 3px solid var(--vp-c-brand-2);
+  background: var(--vp-c-brand-soft);
+  border-radius: 0 6px 6px 0;
+  padding: 0.2rem 1rem;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc blockquote > p {
+  font-size: 15px;
+}
+
+/* 表格：更紧凑 */
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+.vp-doc th {
+  background: var(--vp-c-brand-soft);
+  font-weight: 600;
+}
+
+/* 代码块中的 ASCII 树状图不要横向滚动 */
+.vp-doc div[class*='language-'] {
+  border-radius: 8px;
+}
+
+/* ---------- 自定义容器微调 ---------- */
+
+.vp-doc .custom-block {
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.vp-doc .custom-block.tip {
+  border-color: var(--vp-c-brand-2);
+}
+
+/* ---------- 首页扩展区 ---------- */
+
+.scut-home-section {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 48px 24px 24px;
+}
+
+.scut-home-section h2 {
+  border: none;
+  padding: 0;
+  margin: 0 0 8px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.scut-home-section .section-desc {
+  color: var(--vp-c-text-2);
+  margin-bottom: 28px;
+  font-size: 15px;
+}
+
+.scut-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .scut-card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.scut-card {
+  display: block;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 22px 22px 20px;
+  background: var(--vp-c-bg-soft);
+  transition: border-color 0.25s, transform 0.25s, box-shadow 0.25s;
+  text-decoration: none !important;
+}
+
+.scut-card:hover {
+  border-color: var(--vp-c-brand-2);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(50, 83, 149, 0.12);
+}
+
+.scut-card .card-index {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.scut-card .card-title {
+  font-size: 18px;
+  font-weight: 680;
+  color: var(--vp-c-text-1);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.scut-card .card-desc {
+  font-size: 14px;
+  line-height: 1.65;
+  color: var(--vp-c-text-2);
+}
+
+.scut-card .card-meta {
+  margin-top: 14px;
+  font-size: 12.5px;
+  color: var(--vp-c-text-3);
+}
+
+/* 校训条 */
+.scut-motto {
+  max-width: 1152px;
+  margin: 24px auto 0;
+  padding: 0 24px;
+}
+
+.scut-motto-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  flex-wrap: wrap;
+  border-top: 1px solid var(--vp-c-divider);
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding: 20px 0;
+}
+
+.scut-motto-inner img {
+  height: 44px;
+  width: auto;
+  opacity: 0.82;
+  transition: opacity 0.25s;
+}
+
+.scut-motto-inner img:hover {
+  opacity: 1;
+}
+
+.scut-motto-label {
+  font-size: 13px;
+  letter-spacing: 0.3em;
+  color: var(--vp-c-text-3);
+  writing-mode: horizontal-tb;
+}
+
+/* 待补充清单 */
+.scut-todo {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.scut-todo-inner {
+  border: 1px dashed var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 20px 24px;
+  background: var(--vp-c-bg-soft);
+}
+
+.scut-todo-inner h3 {
+  margin: 0 0 10px;
+  font-size: 16px;
+  font-weight: 650;
+  border: none;
+  padding: 0;
+}
+
+.scut-todo-inner ul {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  line-height: 1.9;
+}
+
+/* ---------- 附录 D：简历模板页 ---------- */
+
+/* 简历预览是竖长图，限制宽度并居中，避免在正文里顶满整屏 */
+.resume-page .vp-doc img {
+  max-width: 470px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.6rem auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(50, 83, 149, 0.16);
+}
