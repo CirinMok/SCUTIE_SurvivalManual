@@ -45,7 +45,7 @@
 
 > 工具与地图。可以当字典用，不需要通读。
 
-附录 A 搜索方法论 · 附录 B 批判性思维谬误清单 · 附录 C 学科知识地图
+附录 A 搜索方法论 · 附录 B 批判性思维谬误清单 · 附录 C 学科知识地图 · 附录 D 实用工具
 
 ---
 
@@ -59,7 +59,7 @@
 │   ├── ch1/                  # 第一章，一节一个文件
 │   ├── ch2/                  # 第二章
 │   ├── ch3/                  # 第三章
-│   ├── appendix/             # 附录 A / B / C
+│   ├── appendix/             # 附录 A / B / C / D
 │   ├── public/               # 校徽、校训字、牌坊等视觉资源
 │   └── .vitepress/
 │       ├── config.mts        # 站点配置（导航 / 搜索 / 主题）
@@ -87,7 +87,7 @@
 
 ## 怎么跑起来
 
-需要 Node.js 18 或更高版本。
+需要 Node.js 20 或更高版本（推荐 22 LTS）。
 
 ```bash
 # 安装依赖
@@ -105,9 +105,11 @@ npm run docs:preview
 
 ## 部署
 
-仓库已配置 GitHub Actions 工作流，推送到 `main` 分支即自动构建并发布到 GitHub Pages。
+**线上地址：https://linch4444.github.io/SCUTIE_SurvivalManual/**
 
-**首次部署需要手动开启：**
+仓库已配置 GitHub Actions 工作流，推送到 `main` 分支即自动构建并发布到 GitHub Pages（约 45 秒生效）。
+
+**首次部署需要手动开启（本仓库已完成）：**
 
 1. 在 GitHub 仓库的 Settings → Pages 里，Source 选择 **GitHub Actions**
 2. 如果仓库名不是 `<用户名>.github.io`，需要把 `docs/.vitepress/config.mts` 里的 `base` 改成 `'/仓库名/'`
@@ -117,7 +119,7 @@ npm run docs:preview
 
 **欢迎增删改。** 三种方式：
 
-- **网页直接改**（零基础推荐）：在站点上找到要改的页面 → 进入编辑 → 提交
+- **网页直接改**（零基础推荐）：打开想改的页面 → 点页面底部的「在 GitHub 上编辑此页」→ 改完提交（没有写权限会自动走合并请求）
 - **提 Issue**：说明哪一页、哪里不对、正确内容是什么
 - **本地大改**：跑起开发环境，改完提 Pull Request
 

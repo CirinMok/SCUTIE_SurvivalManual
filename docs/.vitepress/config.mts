@@ -49,6 +49,12 @@ export default defineConfig({
       label: '本页目录',
     },
 
+    // 每页底部显示「在 GitHub 上编辑此页」，配合「关于」页的零基础贡献指南
+    editLink: {
+      pattern: 'https://github.com/Linch4444/SCUTIE_SurvivalManual/edit/main/docs/:path',
+      text: '在 GitHub 上编辑此页',
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Linch4444/SCUTIE_SurvivalManual' },
     ],
