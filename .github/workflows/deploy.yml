@@ -35,6 +35,10 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          # 首次运行时自动启用 Pages（需 pages: write 权限），
+          # 免去手动到 Settings → Pages 选 Source 的步骤
+          enablement: true
 
       - name: Install dependencies
         run: npm ci
