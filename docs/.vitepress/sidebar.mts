@@ -10,6 +10,11 @@ import { fileURLToPath } from 'node:url'
  *     → 序号决定小节编号：docs/ch2/03-internship.md 显示为「2.3 实习」
  *  2. 每页开头写 frontmatter：title: 小节名（不要带编号，编号由文件名生成）
  *     → 附录例外，附录编号写在 title 里（因为存在 A.3-A.4 这种合并页）
+ *
+ * 布局策略：
+ *  第一/二/三章**统一**挂在同一个侧边栏里（顶部导航不放这三章的入口），
+ *  所以在任意一章的页面上，都能直接跳到另外两章的小节。
+ *  附录独立成栏，入口在顶部导航。
  */
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -93,9 +98,17 @@ function buildAppendix(): SidebarGroup[] {
     .filter((g) => g.items.length > 0)
 }
 
+/** 三章正文，统一组成一栏。故意展开全部三组，避免章节被折叠后看不见、找不到 */
+const chapters: SidebarGroup[] = [
+  buildChapter('ch1', 1, '第一章 认清现状'),
+  buildChapter('ch2', 2, '第二章 基本方向'),
+  buildChapter('ch3', 3, '第三章 存在主义'),
+]
+
 export const sidebar: Record<string, SidebarGroup[]> = {
-  '/ch1/': [buildChapter('ch1', 1, '第一章 认清现状')],
-  '/ch2/': [buildChapter('ch2', 2, '第二章 基本方向')],
-  '/ch3/': [buildChapter('ch3', 3, '第三章 存在主义')],
+  // 三章共用同一份目录，任意一章页面都能跳到另外两章
+  '/ch1/': chapters,
+  '/ch2/': chapters,
+  '/ch3/': chapters,
   '/appendix/': buildAppendix(),
 }

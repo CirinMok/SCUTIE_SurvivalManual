@@ -31,11 +31,10 @@ export default defineConfig({
     logo: '/xiaohui.png',
     siteTitle: '华工工工生存手册',
 
+    // 顶部导航只留全局入口；第一/二/三章不放这里，
+    // 统一由左侧侧边栏承载（见 sidebar.mts 自动生成）
     nav: [
       { text: '首页', link: '/' },
-      { text: '第一章 认清现状', link: '/ch1/01-preface', activeMatch: '^/ch1/' },
-      { text: '第二章 基本方向', link: '/ch2/01-further-study', activeMatch: '^/ch2/' },
-      { text: '第三章 存在主义', link: '/ch3/01-what-is-ie', activeMatch: '^/ch3/' },
       { text: '附录', link: '/appendix/a1-search', activeMatch: '^/appendix/' },
       { text: '关于', link: '/about' },
     ],
