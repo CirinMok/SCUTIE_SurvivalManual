@@ -24,12 +24,12 @@ features:
     linkText: 进入第一章
   - icon: 🛤️
     title: 第二章 基本方向
-    details: 认清现状之后，你得选一条路走。升学、就业、实习、学业课业、科研竞赛、生活人际。
+    details: 认清现状之后，你得二选一条路走。升学or就业，为此你要准备实习、兼顾课业、参加科研竞赛、搞掂生活人际。
     link: /ch2/01-further-study
     linkText: 进入第二章
   - icon: 🌱
     title: 第三章 存在主义
-    details: 认清现状、选定方向之后，剩下的问题是：你怎么活。失败的思维、二八定律、务实的行动。
+    details: 认清现状、选定方向之后，剩下的问题是：你怎么活——失败的思维、二八定律、务实的行动。
     link: /ch3/01-what-is-ie
     linkText: 进入第三章
   - icon: 🗺️
