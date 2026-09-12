@@ -12,3 +12,10 @@ IE 有历年来传承的大群，也可以问往届学长学姐答疑解惑，**
 
 历届传承的大群，师兄师姐分布在各行各业，答疑解惑很方便。
 
+
+**21级/25届 IE 公众号**
+<a href="https://mp.weixin.qq.com/s/fwQ6IqLYRnmUBQuZ1ny6wg">
+  <img width="604" height="604" alt="21IE" src="https://github.com/user-attachments/assets/3d6566bc-f10e-4f7a-9ba8-b7a9410a4290" />
+</a>
+
+点击图片可以跳转到微信文章
