@@ -44,7 +44,6 @@ features:
     <span class="scut-motto-label">校训</span>
     <img src="/boxue.png" alt="博学" />
     <img src="/shensi.png" alt="慎思" />
-    <img src="/mingbian.png" alt="明辨" />
     <img src="/duxing.png" alt="笃行" />
   </div>
 </div>
