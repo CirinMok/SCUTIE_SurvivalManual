@@ -107,7 +107,7 @@ https://github.com/SCUT-BDA/BDA-wiki
  <img width="100" height="100" alt="c60dc0aed0beb505cef7c320cdb80283" src="https://github.com/user-attachments/assets/43c283c6-1339-43cf-a232-8eaa62acf876" />
 </a>
 
-获得了生物技术+工业工程+计算机科学与技术三学位！是23IE实力断档第一，最帅气最优秀最爱健身的体育生——西林学长的主页！夯爆了！
+IE首位获得了生物技术+工业工程+计算机科学与技术三学位的同学！是23IE实力断档第一，最帅气最优秀最爱健身的体育生——西林学长的主页！夯爆了！
 
 
 
