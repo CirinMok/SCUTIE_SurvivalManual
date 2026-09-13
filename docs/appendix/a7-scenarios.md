@@ -49,8 +49,8 @@ title: A.7 按场景搜索
 
 **请你根据以上搜索工具，了解前IE师兄姚振华-宝万争夺战的前因后果**
 
-::: 【瞭望】
-【宝万争夺战——中国最具标杆性商战再回顾（上）】 https://www.bilibili.com/video/BV1Fi421r7Lw/?share_source=copy_web&vd_source=c490abc5c878a70b5e2d0ff33ee72a9c
+::: 彩蛋【瞭望】
+[宝万争夺战——中国最具标杆性商战再回顾（上）]( https://www.bilibili.com/video/BV1Fi421r7Lw)
 :::
 
 可与老师与学长学姐打听，了解IE校友的历史往事，详细分析改开以来参与级别最高的一场商战~~~作为IEers的谈资哈哈哈hhh
