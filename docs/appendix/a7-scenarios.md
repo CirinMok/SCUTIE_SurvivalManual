@@ -51,4 +51,4 @@ title: A.7 按场景搜索
 
 【【瞭望】宝万争夺战——中国最具标杆性商战再回顾（上）】 https://www.bilibili.com/video/BV1Fi421r7Lw/?share_source=copy_web&vd_source=c490abc5c878a70b5e2d0ff33ee72a9c
 
-可与老师与学长学姐，了解改开以来参与程度级别最高的一场商战~~~作为IE的谈资哈哈哈hhh
+可与老师与学长学姐打听，了解IE校友的历史往事，详细分析改开以来参与级别最高的一场商战~~~作为IEers的谈资哈哈哈hhh
