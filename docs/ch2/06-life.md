@@ -35,24 +35,23 @@ https://mp.weixin.qq.com/s/fwQ6IqLYRnmUBQuZ1ny6wg
 ## 欢迎查阅华工其他友情链接
 
 
-### 华南原神大学生存手册：
-
-🌟🌟🌟🌟🌟
-
-https://manual.xn--xkrsa0ti6rf4cf98d.com/
-
-学校层级的生存手册
-
-
-
 ### 华工手册 ：
 
 🌟🌟🌟🌟🌟
 
 https://scut.wiki/
 
-由国际的同学编写的《飞跃手册》，更加注重升学.
+主要由国际的同学编写的《飞跃手册》，注重升学.
 里面沉淀了非常多升学经验！！！
+
+
+### 华南原神大学生存手册：
+
+🌟🌟🌟🌟🌟
+
+https://manual.xn--xkrsa0ti6rf4cf98d.com/
+
+由个人编写，学校层级的生存手册
 
 
 
