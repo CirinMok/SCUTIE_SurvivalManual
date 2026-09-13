@@ -1,8 +1,11 @@
 ---
-title: 生活与人际
+title: 人际生活
 ---
 
-# 2.6 生活与人际
+# 2.6 人际生活
+
+这部分与其他校友共建，可按需浏览与联系~~~
+
 
 ## 欢迎加入 IE 交流群
 
@@ -24,6 +27,7 @@ IE 有历年来传承的大群，也可以问往届学长学姐答疑解惑，**
 <a href="https://mp.weixin.qq.com/s/fwQ6IqLYRnmUBQuZ1ny6wg">
   <img width="100" height="100" alt="21IE" src="https://github.com/user-attachments/assets/3d6566bc-f10e-4f7a-9ba8-b7a9410a4290" />
 </a>
+
 https://mp.weixin.qq.com/s/fwQ6IqLYRnmUBQuZ1ny6wg
 
 
@@ -90,4 +94,23 @@ https://github.com/scutrobotlab/SimulatorX
 https://github.com/SCUT-BDA/BDA-wiki
 
 华南理工大学大数据应用协会 (SCUT BigData Association)，正在开发中...
+
+
+
+## 欢迎观看其他校友主页
+
+### 华南理工大学23级工业工程保研er，西林：
+
+🥰🥰🥰🥰🥰
+
+<a href="https://cirinmok.github.io/">
+ <img width="100" height="100" alt="c60dc0aed0beb505cef7c320cdb80283" src="https://github.com/user-attachments/assets/43c283c6-1339-43cf-a232-8eaa62acf876" />
+</a>
+
+获得了生物技术+工业工程+计算机科学与技术三学位！是23IE实力断档第一，最帅气最优秀最爱健身的体育生——西林学长的主页！夯爆了！
+
+
+
+
+
 
