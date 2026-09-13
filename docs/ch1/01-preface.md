@@ -20,7 +20,7 @@ title: IE 是什么：入门必读
 
 说得再直白一点：别人关心"这个东西能不能造出来"，IE 关心"这个东西怎么造得又便宜又快又好又不容易出错"。
 
-在2026刚刚过去的苹果CEO[库克](https://www.bilibili.com/video/BV1G7tG6tEwL)，所学专业便是工业工程（IE, Industrial Engineering）
+在2026刚刚交棒的苹果CEO[库克](https://www.bilibili.com/video/BV1G7tG6tEwL)，所学专业便是工业工程（IE, Industrial Engineering）
 
 如果说乔布斯是设计研发苹果核心产品的人，那工业工程出身的库克就是让苹果规模化生产流通供应全球的人。
 
