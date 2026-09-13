@@ -5,6 +5,9 @@
 
 ---
 
+<img width="1229" height="481" alt="13" src="https://github.com/user-attachments/assets/51bf7d3d-7b4e-4978-bc23-122dc2fa4d02" />
+
+
 ## 这是什么
 
 仿《上海交大生存手册》体例编写的**开源经验手册**。按三章结构组织，外加一份工具型附录：
