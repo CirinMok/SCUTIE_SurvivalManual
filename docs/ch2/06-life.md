@@ -40,11 +40,12 @@ https://manual.xn--xkrsa0ti6rf4cf98d.com/
 
 
 
-###华工手册 🌟🌟🌟🌟🌟**：
+### 华工手册 🌟🌟🌟🌟🌟**：
 
 https://scut.wiki/
 
-由国际的同学编写的《飞跃手册》，更加注重升学
+由国际的同学编写的《飞跃手册》，更加注重升学.
+里面沉淀了非常多升学经验！！！
 
 
 
@@ -53,7 +54,7 @@ https://scut.wiki/
 https://github.com/HaoningChen/scutquant
 
 一个开源的离线量化投资平台，由华南理工大学量化投资协会负责维护. 该框架具有低耦合, 高内聚的特点
-
+量协会是华工技术氛围最好的几个社团之一！！！
 
 
 ### 华南理工大学计算机科学与工程学院学习仓库🌟🌟🌟🌟**：
@@ -62,11 +63,13 @@ https://github.com/AlexBybye/SCUT_CS
 
 华南理工大学 (SCUT) 计算机科学与工程学院学习仓库，包含二次选拔、培养计划、各学科课件、适合大学生的Skill市场、历年期末试卷、RAG智能复习助手。
 
+
 ### 华南理工大学华南虎战队🌟🌟🌟🌟**：
 
 https://github.com/scutrobotlab/SimulatorX
 
 华南虎战队开发的 RMUC 2023 比赛模拟器，适合对机器人比赛感兴趣的同学！
+
 
 ### 华南理工大学华南理工大学大数据应用协会 (SCUT BigData Association) 🌟🌟🌟**：
 
