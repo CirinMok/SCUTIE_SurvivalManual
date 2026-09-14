@@ -2,9 +2,7 @@
 title: D.2 维特鲁威
 ---
 
-<div class="center">
-  <h1>《维特鲁威》</h1>
-  <p>
+# D.2 华工《维特鲁威》
 
 有风过夏，
 
@@ -58,5 +56,4 @@ SCUT学生创新俱乐部
 
 翻开这本[《维特鲁威》](https://mp.weixin.qq.com/s/hFHxhKvrGdRdwInxa0wt3Q)，
 
-它将给你答案。</p>
-</div>
+它将给你答案。
