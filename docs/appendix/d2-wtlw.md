@@ -56,7 +56,7 @@ SCUT学生创新俱乐部
 
 为你带来解决的办法。
 
-    翻开这本《维特鲁威》，
+翻开这本[《维特鲁威》](https://mp.weixin.qq.com/s/hFHxhKvrGdRdwInxa0wt3Q)，
 
 它将给你答案。</p>
 </div>
