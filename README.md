@@ -83,7 +83,10 @@
 ├── icon/                     # 原始图标资源
 │
 ├── package.json
-└── .github/workflows/deploy.yml   # GitHub Pages 自动部署
+├── .github/workflows/deploy.yml   # GitHub Pages 自动部署
+└── .workbuddy/skills/scutie-manual/
+    ├── SKILL.md                   # 🤖 接力开发技能：全部开发经验与踩坑记录（给 AI agent 读）
+    └── references/ops-guide.md    # 运维指南（给人读）
 ```
 
 **内容源头只有一个：`docs/`。** 早期按章节整篇保存的合稿（第1/2/3章、附录）已移入 `text/_archive/` 存档，不再维护，避免出现两份内容各改各的。要改内容，直接改 `docs/` 下对应小节。
@@ -127,6 +130,15 @@ npm run docs:preview
 - **本地大改**：跑起开发环境，改完提 Pull Request
 
 详细步骤见站点内的「关于」页面。
+
+## 接力开发（给下一届的你和你的 AI 助手）
+
+这个仓库沉淀了两届开发者的全部经验——写作铁律、加章节 SOP、构建部署流程、Windows/沙箱环境踩坑、多人协同规范——全在这两个文件里，**随仓库一起 clone**：
+
+- **`.workbuddy/skills/scutie-manual/SKILL.md`** — AI agent 的接力技能（用 WorkBuddy / CodeBuddy 等工具打开本项目会自动加载）
+- **`.workbuddy/skills/scutie-manual/references/ops-guide.md`** — 人类可读的运维指南
+
+**接力约定：改完东西后，把新踩的坑、新的决策写回 SKILL.md 对应章节**。经验不写回去，下一届就要重新踩一遍。
 
 ### 写作约定
 

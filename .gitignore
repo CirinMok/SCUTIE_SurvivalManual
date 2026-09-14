@@ -12,8 +12,10 @@ docs/.vitepress/config.mts.timestamp-*.mjs
 # 开发临时文件
 .dev/
 
-# Agent 工作数据（技能与记忆，属本地工具状态，非项目内容）
-.workbuddy/
+# Agent 工作数据（记忆等本机状态，不上传）
+.workbuddy/*
+# 例外：项目级 skill 随仓库分发，供下一届接力开发的 agent 在 clone 后自动发现加载
+!.workbuddy/skills/
 
 # 系统文件
 .DS_Store
