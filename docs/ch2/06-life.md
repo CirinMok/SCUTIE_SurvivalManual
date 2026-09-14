@@ -9,15 +9,13 @@ title: 人际生活
 
 ## 欢迎加入 IE 交流群
 
-IE 有历年来传承的大群，也可以问往届学长学姐答疑解惑，**大家会很乐意的**。
+IE 有历年来传承的大群，师兄师姐分布在各行各业——问问题很方便，**大家会很乐意的**。
 
 ### **IE 交流群 QQ 群号：**
 
 🌟🌟🌟🌟
 
 **`432668371`**
-
-历届传承的大群，师兄师姐分布在各行各业，答疑解惑很方便。
 
 
 ### 21级/25届 IE 公众号：
@@ -45,7 +43,7 @@ https://mp.weixin.qq.com/s/fwQ6IqLYRnmUBQuZ1ny6wg
 
 https://scut.wiki/
 
-主要由国际的同学编写的《飞跃手册》，注重升学.
+主要由国际校区的同学编写的《飞跃手册》，侧重升学。
 里面沉淀了非常多升学经验！！！
 
 
@@ -66,7 +64,7 @@ https://manual.xn--xkrsa0ti6rf4cf98d.com/
 https://github.com/HaoningChen/scutquant
 
 一个开源的离线量化投资平台，由华南理工大学量化投资协会负责维护. 该框架具有低耦合, 高内聚的特点
-量协会是华工技术氛围最好的几个社团之一！！！
+量化协会是华工技术氛围最好的几个社团之一！！！
 
 
 ### 华南理工大学计算机科学与工程学院学习仓库：
@@ -90,12 +88,12 @@ https://github.com/scutrobotlab/SimulatorX
 
 🌟🌟🌟🌟
 
-[https://github.com/SCUT-BDA/BDA-wiki](https://openfutech.github.io/SCUT-FT-Guide/)
+[https://openfutech.github.io/SCUT-FT-Guide/](https://openfutech.github.io/SCUT-FT-Guide/)
 
 华南理工未来技术学院课程仓库主要收录学习攻略、个人笔记、电子书与课件、作业与答案等内容，覆盖大多数未来技术学院本科生课程
 
 
-### 华南理工大学华南理工大学大数据应用协会 (SCUT BigData Association) ：
+### 华南理工大学大数据应用协会 (SCUT BigData Association) ：
 
 🌟🌟🌟
 

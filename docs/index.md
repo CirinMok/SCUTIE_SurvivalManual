@@ -61,7 +61,7 @@ features:
   <p class="section-desc">如果你只记住三句话，记住这三句。</p>
   <div class="scut-card-grid">
     <ScutCard href="/ch2/01-further-study" index="前提" title="华工 IE 在管理学院，需要你有勇气为自己决策负责">你拿的是管理学学士学位，这直接决定了 HR 看你简历的第一眼。如果觉得不能接受需要慎重考虑！</ScutCard>
-    <ScutCard href="/ch3/01-what-is-ie" index="前提" title="大部分人在大二通过“2+2”招生转进来">通过二次选拔从理工科院系转入，不是高考直招。放弃原专业的积累，需要勇气，但相应的 IE 交流群中师兄师姐在各行各业积累丰富。</ScutCard>
+    <ScutCard href="/ch3/01-what-is-ie" index="前提" title="大部分人通过“2+2”二次选拔转入：大二申请、大三进入">不是高考直招，大一、大二在原专业，大二申请选拔，大三正式进入 IE。放弃原专业的积累，需要勇气，但相应的 IE 交流群中师兄师姐在各行各业积累丰富。</ScutCard>
     <ScutCard href="/ch1/05-begin-with-the-end" index="前提" title="先定终点，再倒推路径">大部分人做选择的方式是“别人都在做题，那我也做题”。四年后手里握着三个都不太想要的选项。如果你受够了这一切，IE 或许会成为你的选择。</ScutCard>
   </div>
 </div>
