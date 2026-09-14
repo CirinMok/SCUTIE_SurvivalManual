@@ -86,6 +86,14 @@ https://github.com/scutrobotlab/SimulatorX
 
 华南虎战队开发的 RMUC 2023 比赛模拟器，适合对机器人比赛感兴趣的同学！
 
+### 华南理工未来技术学院课程攻略 ：
+
+🌟🌟🌟🌟
+
+[https://github.com/SCUT-BDA/BDA-wiki](https://openfutech.github.io/SCUT-FT-Guide/)
+
+华南理工未来技术学院课程仓库主要收录学习攻略、个人笔记、电子书与课件、作业与答案等内容，覆盖大多数未来技术学院本科生课程
+
 
 ### 华南理工大学华南理工大学大数据应用协会 (SCUT BigData Association) ：
 
