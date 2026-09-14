@@ -19,7 +19,7 @@ hero:
 features:
   - icon: 🧭
     title: 第一章 认清现状
-    details: 在改变世界之前，先搞清楚自己站在哪里。大学给你什么、如何评价一所大学、以终为始地倒排时间线。
+    details: 在进入 IE 之前，先搞清楚自己站在哪里。大学给你什么、如何评价一所大学、以终为始地倒排时间线。
     link: /ch1/01-preface
     linkText: 进入第一章
   - icon: 🛤️
@@ -40,12 +40,13 @@ features:
 ---
 
 <div class="scut-motto">
-  <div class="scut-motto-inner">
+  <ScutMotto href="/ch1/06-pragmatic" title="点开读 1.6「华工很务实」这句话">
     <span class="scut-motto-label">校训</span>
     <img src="/boxue.png" alt="博学" />
     <img src="/shensi.png" alt="慎思" />
     <img src="/duxing.png" alt="笃行" />
-  </div>
+  </ScutMotto>
+  <p class="scut-motto-hint">校训即校风——为什么说「华工很务实」？<a href="/ch1/06-pragmatic">读 1.6 →</a></p>
 </div>
 
 <div class="scut-home-section">
@@ -74,5 +75,15 @@ features:
       <li>生产计划与控制 / 预测与决策方法 / 管理统计学课程经验</li>
       <li>培养方案、学分要求的官方说明</li>
     </ul>
+  </div>
+</div>
+
+<div class="scut-home-section">
+  <h2>友情链接</h2>
+  <p class="section-desc">手册之外，这些人也在认真回答「华工怎么读」。</p>
+  <div class="scut-card-grid">
+    <ScutCard class="span-all" href="/ch2/06-life" index="2.6 人际生活" title="IE 交流群 · 校友公众号 · 华工友情链接">
+      历届传承的 IE 大群、21 级公众号，以及华工手册、各学院课程仓库等校友资源，都收在第二章末尾的「人际生活」。
+    </ScutCard>
   </div>
 </div>

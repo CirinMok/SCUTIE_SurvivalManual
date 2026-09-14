@@ -208,6 +208,33 @@
   writing-mode: horizontal-tb;
 }
 
+/* 校训条可点击（链到 1.6「华工很务实」） */
+a.scut-motto-inner {
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: background-color 0.25s, border-color 0.25s;
+}
+
+a.scut-motto-inner:hover {
+  border-color: var(--vp-c-brand-3);
+}
+
+a.scut-motto-inner:hover img {
+  opacity: 1;
+}
+
+.scut-motto-hint {
+  margin: 10px 0 0;
+  text-align: center;
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+}
+
+/* 单卡横贯整行（首页底部友情链接） */
+.scut-card-grid .span-all {
+  grid-column: 1 / -1;
+}
+
 /* 待补充清单 */
 .scut-todo {
   max-width: 1152px;
@@ -250,4 +277,35 @@
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
   box-shadow: 0 8px 28px rgba(50, 83, 149, 0.16);
+}
+
+/* ---------- 2.6 人际生活：公众号二维码 / 头像图居中 ---------- */
+
+.life-page .vp-doc a img {
+  display: block;
+  margin: 1.2rem auto;
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider);
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.life-page .vp-doc a img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(50, 83, 149, 0.14);
+}
+
+/* ---------- 附录 D.2：《维特鲁威》诗页 ---------- */
+
+.wtlw-page .vp-doc h1 {
+  text-align: center;
+}
+
+.wtlw-page .vp-doc p {
+  text-align: center;
+  max-width: 32em;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2.1;
+  letter-spacing: 0.06em;
+  font-family: 'Noto Serif SC', 'Source Han Serif SC', serif;
 }

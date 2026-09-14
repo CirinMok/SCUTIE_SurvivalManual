@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import type { Theme } from 'vitepress'
 import ScutCard from './components/ScutCard.vue'
+import ScutMotto from './components/ScutMotto.vue'
 import './custom.css'
 
 export default {
@@ -8,5 +9,6 @@ export default {
   enhanceApp({ app }) {
     // 全局注册，这样 index.md 里可以直接写 <ScutCard ... />
     app.component('ScutCard', ScutCard)
+    app.component('ScutMotto', ScutMotto)
   },
 } satisfies Theme
